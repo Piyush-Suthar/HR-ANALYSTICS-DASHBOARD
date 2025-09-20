@@ -7,111 +7,111 @@ The report helps HR teams analyze employee turnover, identify patterns, and take
 
 **Data Source**
 
-File Type: Excel Workbook (.xlsx)
+  File Type: Excel Workbook (.xlsx)
 
-Sheet: Employee_Data
+  Sheet: Employee_Data
 
-Columns Used:(Employee ID,Age,Gender,Education,Department,Job Role,Monthly Income,Years at Company,Attrition (Yes/No),Date of Joining,Business Travel,
-Work-Life Balance Rating etc.)
+  Columns Used:(Employee ID,Age,Gender,Education,Department,Job Role,Monthly Income,Years at Company,Attrition (Yes/No),Date of Joining,Business Travel,
+  Work-Life Balance Rating etc.)
 
 **Power BI Desktop**
 
-Excel (Data Source)
+  Excel (Data Source)
 
-DAX (Data Analysis Expressions)
+  DAX (Data Analysis Expressions)
 
-Power Query (for data cleaning & transformation)
+  Power Query (for data cleaning & transformation)
 
 **Key KPIs**
 
-Total Employees
+  Total Employees
 
-Attrition Count
+  Attrition Count
 
-Attrition Rate (%)
+  Attrition Rate (%)
 
-Average Tenure (Years at Company)
+  Average Tenure (Years at Company)
 
-Average Monthly Income
+  Average Monthly Income
 
-Attrition by Department
+  Attrition by Department
 
-Attrition by Job Role
+  Attrition by Job Role
 
-Attrition by Gender
+  Attrition by Gender
 
-Attrition by Job Satisfaction
+  Attrition by Job Satisfaction
 
-Attrition by Age Group
+  Attrition by Age Group
 
-Attrition by Salary Slab
+  Attrition by Salary Slab
 
-Attrition by Eduction field
+  Attrition by Eduction field
 
-Report Features
+**Report Features**
 
-Cards/KPIs:
+  **Cards/KPIs:**
 
-Total Employees
+    Total Employees
 
-Attrition Count
+    Attrition Count
 
-Attrition Rate
+    Attrition Rate
 
-Average Tenure
+    Average Tenure
 
-Average Monthly Salary
+    Average Monthly Salary
 
-Average Age of Employee
+    Average Age of Employee
 
 
 **Visuals**
 
-Clustered Column: Attrition by Job Role
+  Clustered Column: Attrition by Job Role
 
-Donut Chart: Attrition by Education Field
+  Donut Chart: Attrition by Education Field
 
-Aera Chart: Attrition Trend by Year
+  Aera Chart: Attrition Trend by Year
 
-Stacked Column: Attrition by Age Group
+  Stacked Column: Attrition by Age Group
 
-Matrix: Attrition by Job Satisfaction
+  Matrix: Attrition by Job Satisfaction
 
-Stacked bar Chart: Attrition by Salary Slab
+  Stacked bar Chart: Attrition by Salary Slab
 
-Slicers/Filters:
+**Slicers/Filters:**
 
-Department
+  Department
 
-Gender
+  Gender
 
 **Insights Delivered**
 
-Identify high-attrition departments
+  Identify high-attrition departments
 
-Understand age group and job role patterns for employee exits
+  Understand age group and job role patterns for employee exits
 
-Analyze salary vs. attrition relationship
+  Analyze salary vs. attrition relationship
 
-Discover tenure trend – do employees leave early or stay long?
+  Discover tenure trend – do employees leave early or stay long?
 
-Provide data-driven HR recommendations to reduce turnover
+  Provide data-driven HR recommendations to reduce turnover
 
 **Tools & Technologies**
 
-Power BI Desktop
+  Power BI Desktop
 
-Excel (Employee Data)
+  Excel (Employee Data)
 
-Power Query (ETL – cleaning & transformation)
+  Power Query (ETL – cleaning & transformation)
 
 **How to Use**
 
-Open the Power BI file (Attrition_Report.pbix).
+  Open the Power BI file (Attrition_Report.pbix).
 
-Connect/refresh data from the Excel source.
+  Connect/refresh data from the Excel source.
 
-Use slicers to filter by department, age group, gender, etc.
+  Use slicers to filter by department, age group, gender, etc.
 
 Interact with visuals to explore attrition trends and insights.
 DAX (Data Analysis Expressions)
